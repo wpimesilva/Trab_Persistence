@@ -14,7 +14,7 @@ No projeto foram criados 3 entidades, controllers e services, assim como o CRUD.
 
 O cadastro deverá ser feito pelo usuário:
 
-Produto em /api/cadastro/produto
-Cliente em /api/cadastro/cliente
-Pedido em /api/cadastro/cliente/{idCliente}/pedido
-Itens em um pedido em /api/cadastro/pedido/{idPedido}/item
+1 - Produto em /api/cadastro/produto
+2 - Cliente em /api/cadastro/cliente
+3 - Pedido em /api/cadastro/cliente/{idCliente}/pedido
+4 - Itens em um pedido em /api/cadastro/pedido/{idPedido}/item
